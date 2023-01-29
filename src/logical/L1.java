@@ -20,6 +20,7 @@ public class L1 {
 
 		for(int x=0;x<zz.length;x++){
 		System.out.println(zz[x]);
+		System.out.println("Tanmay");
 		}
 	}
 
